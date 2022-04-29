@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Pinft.Github.io</id>
+    <id>https://pinft.github.io</id>
     <title>Gridea</title>
-    <updated>2022-04-29T14:37:30.624Z</updated>
+    <updated>2022-04-29T14:38:44.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Pinft.Github.io"/>
-    <link rel="self" href="https://Pinft.Github.io/atom.xml"/>
+    <link rel="alternate" href="https://pinft.github.io"/>
+    <link rel="self" href="https://pinft.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://Pinft.Github.io/images/avatar.png</logo>
-    <icon>https://Pinft.Github.io/favicon.ico</icon>
+    <logo>https://pinft.github.io/images/avatar.png</logo>
+    <icon>https://pinft.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Pinft.Github.io/post/hello-gridea/</id>
-        <link href="https://Pinft.Github.io/post/hello-gridea/">
+        <id>https://pinft.github.io/post/hello-gridea/</id>
+        <link href="https://pinft.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
