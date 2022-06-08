@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pinft.github.io</id>
     <title>Pi NFT-CryptoDragonKing</title>
-    <updated>2022-06-08T11:05:41.059Z</updated>
+    <updated>2022-06-08T13:13:30.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pinft.github.io"/>
     <link rel="self" href="https://pinft.github.io/atom.xml"/>
@@ -13,13 +13,13 @@
     <icon>https://pinft.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Pi NFT-CryptoDragonKing</rights>
     <entry>
-        <title type="html"><![CDATA[PiNFT加密龙王上线欧意Web3——MetaX]]></title>
+        <title type="html"><![CDATA[PiNFT加密龙王上线欧易Web3——MetaX]]></title>
         <id>https://pinft.github.io/post/pinft-jia-mi-long-wang-shang-xian-ou-yi-web3-metax/</id>
         <link href="https://pinft.github.io/post/pinft-jia-mi-long-wang-shang-xian-ou-yi-web3-metax/">
         </link>
         <updated>2022-06-08T10:30:03.000Z</updated>
-        <content type="html"><![CDATA[<p>作者表示地址达到7.5K左右将创作龙王V2给目前持有者（目前正在开发创作中）</p>
-<p>欧意链接：https://www.okx.com/web3/nft/markets/collection/Crypto-DragonKing</p>
+        <content type="html"><![CDATA[<p>作者表示地址达到7.5K左右将创作龙王V2 空投给目前持有者（目前正在开发创作中）</p>
+<p>欧易链接：https://www.okx.com/web3/nft/markets/collection/Crypto-DragonKing</p>
 <p>唯一合约地址：0xf3892ecb9802c4bd13a123d9d1041654583915e1</p>
 ]]></content>
     </entry>
@@ -29,12 +29,10 @@
         <link href="https://pinft.github.io/post/关于Pi NFT/">
         </link>
         <updated>2022-03-13T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<!-- more -->
-<p><strong>🐲想知道什么是Pi NFT-CryptoDragonKing</strong><br>
+        <summary type="html"><![CDATA[<p><strong>🐲想知道什么是Pi NFT-CryptoDragonKing</strong><br>
 🏳️‍🌈  <strong>首先就要清楚什么是NFT；NFT有那些特点？什么是非同质化代币NFT？</strong></p>
 ]]></summary>
-        <content type="html"><![CDATA[<!-- more -->
-<p><strong>🐲想知道什么是Pi NFT-CryptoDragonKing</strong><br>
+        <content type="html"><![CDATA[<p><strong>🐲想知道什么是Pi NFT-CryptoDragonKing</strong><br>
 🏳️‍🌈  <strong>首先就要清楚什么是NFT；NFT有那些特点？什么是非同质化代币NFT？</strong></p>
 <!-- more -->
 <h2 id="问题一什么是非同质化代币nft">问题一：什么是非同质化代币（NFT）？🐲</h2>
